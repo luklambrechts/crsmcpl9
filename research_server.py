@@ -2,12 +2,14 @@ import arxiv
 import json
 import os
 from typing import List
+
 from mcp.server.fastmcp import FastMCP
+from starlette.requests import Request
+from starlette.responses import JSONResponse, Response
 
 PAPER_DIR = "papers"
 
-# Initialize FastMCP server
-mcp = FastMCP("research", port=8001)
+mcp = FastMCP("research", stateless_http=True)
 
 @mcp.tool()
 def search_papers(topic: str, max_results: int = 5) -> List[str]:
@@ -191,6 +193,13 @@ def generate_search_prompt(topic: str, num_papers: int = 5) -> str:
 
     Please present both detailed information about each paper and a high-level synthesis of the research landscape in {topic}."""
 
+@mcp.custom_route("/health", methods=["GET"])
+async def health(_request: Request) -> Response:
+    return JSONResponse({"status": "ok"})
+
+
 if __name__ == "__main__":
-    # Initialize and run the server
-    mcp.run(transport='sse')
+    import uvicorn
+
+    port = int(os.environ.get("PORT", 10000))
+    uvicorn.run(mcp.streamable_http_app(), host="0.0.0.0", port=port)
