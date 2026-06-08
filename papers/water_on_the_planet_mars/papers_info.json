@@ -1,0 +1,53 @@
+{
+  "astro-ph/9807299v1": {
+    "title": "The 1995 Pilot Campaign of PLANET: Searching for Microlensing Anomalies through Precise, Rapid, Round-the-Clock Monitoring",
+    "authors": [
+      " The PLANET Collaboration",
+      "M. Albrow",
+      "J. -P. Beaulieu",
+      "P. Birch",
+      "J. A. R. Caldwell",
+      "S. Kane",
+      "R. Martin",
+      "J. Menzies",
+      "R. M. Naber",
+      "J. -W. Pel",
+      "K. Pollard",
+      "P. D. Sackett",
+      "K. C. Sahu",
+      "P. Vreeswijk",
+      "A. Williams",
+      "M. A. Zwaan"
+    ],
+    "summary": "  PLANET (the Probing Lensing Anomalies NETwork) is a worldwide collaboration of astronomers whose primary goal is to monitor microlensing events densely and precisely in order to detect and study anomalies that contain information about Galactic lenses and sources that would otherwise be unobtainable. The results of PLANET's highly successful first year of operation are presented here. Details of the observational setup, observing procedures, and data reduction procedures used to track the progress in real time at the three participating observing sites in 1995 are discussed. The ability to follow several events simultaneously with a median sampling interval of 1.6 hours and a photometric precision of better than 0.10 mag even at I=19 has been clearly demonstrated. During PLANET's 1995 pilot campaign, 10 microlensing events were monitored; the binary nature of one of these, MACHO 95-BLG-12 was recognized by PLANET on the mountain. Another event, OGLE 95-BLG-04, displayed chromaticity that may betray the presence of blending with unresolved stars projected onto the same resolution element. Although lasting only about a month, the campaign may allow constraints to be placed on the number of planets with mass ratios to the parent star of 0.01 or greater.",
+    "pdf_url": "https://arxiv.org/pdf/astro-ph/9807299v1",
+    "published": "1998-07-29"
+  },
+  "astro-ph/9811479v3": {
+    "title": "Limb-Darkening of a K Giant in the Galactic Bulge: PLANET Photometry of MACHO 97-BLG-28",
+    "authors": [
+      " The PLANET Collaboration",
+      "M. D. Albrow",
+      "J. -P. Beaulieu",
+      "J. A. R. Caldwell",
+      "M. Dominik",
+      "J. Greenhill",
+      "K. Hill",
+      "S. Kane",
+      "R. Martin",
+      "J. Menzies",
+      "R. M. Naber",
+      "J. -W. Pel",
+      "K. Pollard",
+      "P. D. Sackett",
+      "K. C. Sahu",
+      "P. Vermaak",
+      "R. Watson",
+      "A. Williams",
+      "M. S. Sahu"
+    ],
+    "summary": "  We present the PLANET photometric dataset for the binary-lens microlensing event MACHO 97-BLG-28 consisting of 696 I and V-band measurements, and analyze it to determine the radial surface brightness profile of the Galactic bulge source star. The microlensed source, demonstrated to be a K giant by our independent spectroscopy, crossed the central isolated cusp of the lensing binary, generating a sharp peak in the light curve that was well-resolved by dense (3 - 30 minute) and continuous monitoring from PLANET sites in Chile, South Africa, and Australia. Our modeling of these data has produced stellar profiles for the source star in the I and V bands that are in excellent agreement with those predicted by stellar atmospheric models for K giants. The limb-darkening coefficients presented here are the first derived from microlensing, among the first for normal giants by any technique, and the first for any star as distant as the Galactic bulge. Modeling indicates that the lensing binary has a mass ratio q = 0.23 and an (instantaneous) separation in units of the angular Einstein ring radius of d = 0.69 . For a lens in the Galactic bulge, this corresponds to a typical stellar binary with a projected separation between 1 and 2 AU. If the lens lies closer, the separation is smaller, and one or both of the lens objects is in the brown dwarf regime. Assuming that the source is a bulge K2 giant at 8 kpc, the relative lens-source proper motion is mu = 19.4 +/- 2.6 km/s /kpc, consistent with a disk or bulge lens. If the non-lensed blended light is due to a single star, it is likely to be a young white dwarf in the bulge, consistent with the blended light coming from the lens itself.",
+    "pdf_url": "https://arxiv.org/pdf/astro-ph/9811479v3",
+    "published": "1998-11-30"
+  }
+}

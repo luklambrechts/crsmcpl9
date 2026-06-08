@@ -7,4 +7,6 @@ requires-python = ">=3.11"
 dependencies = [
     "arxiv>=4.0.0",
     "fastmcp>=3.4.2",
+    "ipykernel>=7.2.0",
+    "pip>=26.1.2",
 ]

@@ -1,0 +1,28 @@
+{
+  "1103.0379v1": {
+    "title": "Near-tropical subsurface ice on Mars",
+    "authors": [
+      "Mathieu Vincendon",
+      "John Mustard",
+      "Fran\u00e7ois Forget",
+      "Mikhail Kreslavsky",
+      "Aymeric Spiga",
+      "Scott Murchie",
+      "Jean-Pierre Bibring"
+    ],
+    "summary": "Near-surface perennial water ice on Mars has been previously inferred down to latitudes of about 45\u00b0 and could result from either water vapor diffusion through the regolith under current conditions or previous ice ages precipitations. In this paper we show that at latitudes as low as 25\u00b0 in the southern hemisphere buried water ice in the shallow (< 1 m) subsurface is required to explain the observed surface distribution of seasonal CO2 frost on pole facing slopes. This result shows that possible remnants of the last ice age, as well as water that will be needed for the future exploration of Mars, are accessible significantly closer to the equator than previously thought, where mild conditions for both robotic and human exploration lie.",
+    "pdf_url": "https://arxiv.org/pdf/1103.0379v1",
+    "published": "2011-03-02"
+  },
+  "1103.0225v1": {
+    "title": "Water ice at low to midlatitudes on Mars",
+    "authors": [
+      "Mathieu Vincendon",
+      "Fran\u00e7ois Forget",
+      "John Mustard"
+    ],
+    "summary": "In this paper, we analyze water ice occurrences at the surface of Mars using near-infrared observations, and we study their distribution with a climate model. Latitudes between 45\u00b0S and 50\u00b0N are considered. Data from the Observatoire pour la Min\u00e9ralogie, l'Eau, les Glaces et l'Actitit\u00e9 and the Compact Reconnaissance Imaging Spectrometer for Mars are used to assess the presence of surface water ice as a function of location and season. A modeling approach combining the 1-D and 3-D versions of the General Circulation Model of the Laboratoire de M\u00e9t\u00e9orologie Dynamique de Jussieu is developed and successfully compared to observations. Ice deposits 2-200 \u03bcm thick are observed during the day on pole facing slopes in local fall, winter and early spring. Ice extends down to 13\u00b0 latitude in the Southern Hemisphere but is restricted to latitudes higher than 32\u00b0 in the north. On a given slope, the pattern of ice observations at the surface is mainly controlled by the global variability of atmospheric water (precipitation and vapor), with local ground properties playing a lower role. Only seasonal surface ice is observed: no exposed patches of perennial ground ice have been detected. Surface seasonal ice is however sensitive to subsurface properties: the results presented in this study are consistent with the recent discovery of low latitude subsurface ice obtained through the analysis of CO2 frost.",
+    "pdf_url": "https://arxiv.org/pdf/1103.0225v1",
+    "published": "2011-03-01"
+  }
+}
