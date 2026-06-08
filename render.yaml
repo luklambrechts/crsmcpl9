@@ -1,13 +1,7 @@
 services:
-
   - type: web
-
-    name: crs-mcp-server
-
+    name: crsmcp9
     runtime: python
-
     plan: free
-
     buildCommand: pip install -r requirements.txt
-
-    startCommand: python research_server.py
+    startCommand: python main.py
